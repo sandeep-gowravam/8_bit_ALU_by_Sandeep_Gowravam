@@ -1,0 +1,18 @@
+run 1000ns
+Sel=0000 | A= 10, B=  7 | Result= 17
+Sel=0001 | A= 10, B=  7 | Result=  3
+Sel=0010 | A= 10, B=  7 | Result= 70
+Sel=0011 | A= 10, B=  7 | Result=  1
+Sel=0100 | A= 10, B=  7 | Result= 20
+Sel=0101 | A= 10, B=  7 | Result=  5
+Sel=0110 | A= 10, B=  7 | Result= 20
+Sel=0111 | A= 10, B=  7 | Result=  5
+Sel=1000 | A= 10, B=  7 | Result=  2
+Sel=1001 | A= 10, B=  7 | Result= 15
+Sel=1010 | A= 10, B=  7 | Result= 13
+Sel=1011 | A= 10, B=  7 | Result=240
+Sel=1100 | A= 10, B=  7 | Result=253
+Sel=1101 | A= 10, B=  7 | Result=242
+Sel=1110 | A= 10, B=  7 | Result=  1
+Sel=1111 | A= 10, B=  7 | Result=  0
+$finish called at time : 160 ns 
